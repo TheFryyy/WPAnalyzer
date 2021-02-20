@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Ally.png</file>
+        <file>images/AllySelected.png</file>
+        <file>images/Ball.png</file>
+        <file>images/cameraIcon.png</file>
+        <file>images/loading.png</file>
+        <file>images/Opp.png</file>
+        <file>images/OppSelected.png</file>
+        <file>images/terrain.png</file>
+        <file>images/WPLogo.png</file>
+    </qresource>
+</RCC>
